@@ -1,0 +1,11 @@
+{
+  "quantitative_rule": {
+    "items":[ 
+      { "item_code": "001", "reduced_price": "8.5", "min_vol": "2" }
+    ]
+  },
+  "qualitative_rule": {
+      "basket_min_value": "60",
+      "basket_discount_rate": "10"
+   }
+}
